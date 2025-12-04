@@ -19,3 +19,12 @@ print(type(age))
 
 name = bool(name)
 print(name)
+
+# INPUTTTTT
+
+
+name = input("Enter your name: ")
+age = int(input("How old are you ? : "))
+
+print(f"Hello {name}, Welcome to the team! ")
+print(f"Your our youngest member of age {age}")
