@@ -1,3 +1,4 @@
+# Used in Chapt23.py
 pi = 3.14159
 
 def square(x):
