@@ -31,7 +31,7 @@
 # car2.describe()
 
 #############EXAMPLE 2#############
-
+# Class Variables
 class Student:
 
     class_year = 2029
