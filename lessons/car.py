@@ -1,6 +1,9 @@
 # This is linked to Chapt26.py
 
 class Car:
+
+    wheels = 4 #Class variables
+
     def __init__(self, model, year, color, for_sale): #Example of constucter method and init means intialize
         self.model = model
         self.year = year
