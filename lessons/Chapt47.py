@@ -20,11 +20,11 @@ class MainWindow(QMainWindow):
         label4 = QLabel("#4",self)
         label5 = QLabel("#5",self)
 
-        label1.setStyleSheet("background-color: red")
-        label2.setStyleSheet("background-color: yellow")
-        label3.setStyleSheet("background-color: green")
-        label4.setStyleSheet("background-color: blue")
-        label5.setStyleSheet("background-color: purple")
+        label1.setStyleSheet("background-color: red;")
+        label2.setStyleSheet("background-color: yellow;")
+        label3.setStyleSheet("background-color: green;")
+        label4.setStyleSheet("background-color: blue;")
+        label5.setStyleSheet("background-color: purple;")
 
         # vbox = QVBoxLayout()
         # hbox = QHBoxLayout()
