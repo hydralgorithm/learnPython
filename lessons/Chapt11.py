@@ -1,7 +1,7 @@
 # LISTS, SETS AND TUPLES
 # Collecetion = single "Variable" used to store multiple values
 # List  = [] ordered and changeable, Duplicates ok
-# Set   = {} unordered and immutable, No duplicates
+# Set   = {} unordered and mutable, No duplicates
 # Tuple = () ordered and unchangeable, Duplicates ok
 
 ############ LIST ############
